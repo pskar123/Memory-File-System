@@ -29,8 +29,11 @@ Classes Used:
    **Prerequisites:
        Java Development Kit (JDK) installed.
 # Setup Steps:
-
     -> Clone or download the project repository.
     ->Open the project directory in your preferred IDE or text editor (e.g., VS Code).
     ->Compile the FileSystem.java file using the command: javac FileSystem.java.(in terminal)
     ->Run the compiled program using: java FileSystem.(in terminal)
+# Program Execution Overview
+        ->Type Commands: Enter various commands (mkdir, cd, ls, etc.) to interact with the file system.
+        ->Infinite Loop: The program operates in an infinite loop, continuously prompting for commands.
+        ->Exit Condition: Input exit to terminate the program and exit the infinite loop.
